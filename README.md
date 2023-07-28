@@ -45,7 +45,7 @@ docker ps -a
 ```
 
 ## Acceder al contenido de la pagina web
- Una vez validado con el comando anterior, ya podemos acceder a nuestra pagina web abriendo el navegador con la siguiente ruta [http://localhost:8085/index.html]
+ Una vez validado con el comando anterior, ya podemos acceder a nuestra pagina web abriendo el navegador con la siguiente ruta [http://localhost:8085/index.html](http://localhost:8085/index.html)
 
 ## SSH
 
